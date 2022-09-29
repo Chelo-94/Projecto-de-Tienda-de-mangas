@@ -104,7 +104,9 @@ strong {
     
 
 }
-
+.relleno_mientas_no_haya_nada{
+    margin: 3000px;
+}
 
 .proposito p {
     color: rgb(255, 255, 255);
