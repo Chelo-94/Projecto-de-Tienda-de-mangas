@@ -1,0 +1,472 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+body {
+
+    background-image: url('https://i.pinimg.com/originals/cb/80/45/cb8045ec47469c98842425a0ade462bc.jpg');
+    background-size: 300px;
+}
+
+
+
+
+
+.contenido_de_mangas {
+    margin-left: 40px;
+
+}
+
+.img2 {
+    height: 300px;
+    padding: 5px;
+    justify-content: center;
+    border: 7px;
+    border-radius: 20px;
+    border-style: dashed;
+    color: rgb(255, 255, 255);
+
+
+}
+
+
+
+
+.img1padre {
+    display: grid;
+
+    grid-template-rows: 50% 50%;
+}
+
+.img1 {
+    width: 23%;
+    border: 7px;
+    border-radius: 25px;
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+
+}
+
+.col {
+    padding: 10px;
+}
+
+
+
+
+.fotoeditorial {
+    align-content: center;
+    height: 550px;
+    margin: 10px;
+    border-radius: 50px;
+    border-style: solid;
+    color: black;
+    padding: 10px;
+}
+
+main {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 40px;
+    padding: 40px;
+    padding-bottom: 60px;
+    background-color: rgba(86, 27, 141, 0.75);
+    border-radius: 70px;
+
+}
+
+
+
+main p {
+    color: rgb(255, 255, 255);
+    text-shadow: 1000px;
+    font-size: 30px;
+    background-color: rgba(125, 0, 0, 0.75);
+
+
+}
+
+
+strong {
+    text-align: center;
+}
+
+.proposito {
+    color: rgb(255, 255, 255);
+    font-size: 35px;
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-image: url('https://img.maspormas.com/2018/06/musel-del-manga.jpg');
+    background-size: 1000px;
+
+}
+
+
+.proposito p {
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+}
+
+.manga {
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    margin-top: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-image: url('https://pbs.twimg.com/media/D6V2wQdVUAAeCim?format=jpg&name=large');
+    background-size: 500px;
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: 50% 60%;
+    grid-template-rows: 45% 60%;
+}
+
+.manga p {
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    border-radius: 25px;
+    height: 1000px;
+
+
+}
+
+
+.videoexplicativo {
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    background-image: url('https://pbs.twimg.com/media/E4f2z6EXEAMf2U0?format=jpg&name=large');
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: static;
+
+}
+
+.videos {
+    margin-left: 190px;
+    margin-top: 15px;
+}
+
+
+
+.videojapon {
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    background-image: url('https://d20aeo683mqd6t.cloudfront.net/articles/title_images/000/040/775/original/japanese-flag_b.png?2022&d=750x400');
+    background-size: 900px;
+    background-repeat: repeat;
+    position: static;
+
+}
+
+
+
+
+p {
+    text-align: center;
+    background-color: rgba(0, 17, 150, 0.75);
+    font-size: 25px;
+    padding: 30px;
+    font-size: 50px;
+    margin: 50px 50px 50px 50px;
+    border: 15px solid rgb(0, 0, 0);
+}
+
+h1 {
+    text-align: center;
+    background-color: rgba(146, 0, 0, 0.75);
+    padding: 30px;
+    margin: 20px 100px 20px 100px;
+    border: 7px solid rgb(255, 255, 255);
+    border-radius: 70px;
+    font-size: 40px;
+    border-style: solid;
+
+
+}
+
+h1 p {
+    background-color: rgba(137, 43, 226, 0.75);
+}
+
+h2 {
+    background-color: rgba(146, 0, 0, 0.75);
+    background-size: 100px;
+    text-align: center;
+    padding: 15px;
+    font-weight: bold;
+    border-radius: 70px;
+    border-style: solid;
+    font-size: 40px;
+    margin: 50x 100px 20px 100px;
+    border: 7px solid rgb(0, 0, 0);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+
+.login {
+    background-color: rgba(146, 0, 0, 0.75);
+    font-weight: bold;
+
+    border: 7px solid rgb(0, 0, 0);
+    font-size: 20px;
+    border-radius: 70px;
+    border-style: solid;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: grid;
+    grid-template-rows: 20% 70%;
+
+}
+
+
+li {
+    display: inline-block;
+
+}
+
+
+
+a {
+    text-decoration: none;
+    color: black;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+
+}
+
+
+
+
+
+footer {
+    text-decoration: solid;
+    text-overflow: clip;
+    font-variant-position: normal;
+    color: rgb(255, 255, 255);
+    background-color: rgba(0, 17, 150, 0.75);
+    text-align: left;
+    font-size: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+
+.redes {
+
+    display: grid;
+    grid-template-columns: 48px 48px 48px 48px;
+    padding: 10px;
+
+
+
+
+
+
+}
+
+
+
+
+.formulario {
+    display: flex;
+    justify-content: left;
+    flex-direction: column;
+    align-content: flex-start;
+    flex-wrap: wrap;
+    display: grid;
+    margin-left: 25px;
+    grid-template-rows: 100px 200px;
+    grid-template-columns: 100%;
+}
+
+.norma {
+    size: 10px;
+}
+
+
+
+.checkbox {
+    text-align: left;
+    background-color: rgb(101, 101, 101);
+}
+
+
+
+li {
+
+    font-size: 40px;
+    align-items: center;
+
+
+
+}
+
+
+
+
+h3 {
+    background-color: rgba(146, 0, 0, 0.75);
+    background-size: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    font-weight: bold;
+    border: 7px solid rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    border-radius: 70px;
+    border-style: solid;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+ul {
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 50p;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 350px;
+    background-image: url(/img/banner.jpg);
+    background-size: 1300px;
+    background-position: center;
+    background-repeat: no-repeat;
+    list-style-type: none;
+    text-align: center;
+    align-content: center;
+}
+
+header {
+    color: rgb(255, 255, 255);
+    background-color: rgb(88, 88, 88);
+    text-align: left;
+}
+
+
+
+
+.ivrea_logo {
+    background-image: url(https://scontent.fmvd3-1.fna.fbcdn.net/v/t39.30808-6/304971035_520820520046543_7365047222400487603_n.jpg?stp=cp0_dst-jpg_e15_q65_s960x960&_nc_cat=105&ccb=1-7&_nc_sid=e3f864&efg=eyJpIjoidCJ9&_nc_ohc=in5Zk3iaRy0AX-x-AqG&_nc_ht=scontent.fmvd3-1.fna&oh=00_AT9coErUo16ya6EeMKIrX2FmpN1YBs6Jnvi6620TL3-Vog&oe=6333A3DF);
+    background-size: 200px;
+    background-repeat: no-repeat;
+    color: rgba(255, 255, 255, 0);
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+
+
+.norma_logo {
+    background-image: url(/img/norma\ logo.svg);
+    background-size: 150px;
+    background-repeat: no-repeat;
+    color: rgba(255, 255, 255, 0);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-size: 170px;
+
+}
+
+.ovni_logo {
+    background-image: url(https://d3ugyf2ht6aenh.cloudfront.net/stores/001/184/069/themes/common/logo-1309330010-1589027866-09fb8d9241145920bd6239942cfb06bb1589027866-480-0.png?0);
+    background-size: 150px;
+    background-repeat: no-repeat;
+    color: rgba(255, 255, 255, 0);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-size: 170px;
+}
+
+.panini_logo {
+    background-image: url(/img/Panini-Manga.jpg);
+    background-size: 150px;
+    background-repeat: no-repeat;
+    color: rgba(255, 255, 255, 0);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-size: 170px;
+}
+
+.planeta_logo {
+    background-image: url(/img/Planeta3.jpg);
+    background-size: 200px;
+    background-repeat: no-repeat;
+    color: rgba(255, 255, 255, 0);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-position: 6px;
+}
+
+.significado {
+    color: rgb(255, 255, 255);
+    font-size: 75px;
+    padding: 10px;
+    border-radius: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+
+
+
+.kanji {
+    background-image: url('/img/44681.jpg');
+    background-size: auto;
+    color: rgb(25, 0, 70);
+    padding: 50px;
+    font-size: 30px;
+    border-radius: 70px;
+    margin: 100px
+}
+
+
+
+
+
+
+.editoriales {
+    color: rgb(255, 255, 255);
+    background-image: url('/img/editoriales-manga-2021.jpg');
+    background-size: 200px;
+    font-size: 30px;
+    padding-bottom: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+
+.LogoEditorial {
+    padding-right: 20px;
+}
+
+.editoriales-interior {
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.editoriales-interior p {
+    border-color: black;
+    font-size: 35px;
+    padding-bottom: 5px;
+    padding: 20px;
+    padding-top: 70px;
+    border-radius: 30px;
+
+}
+
+
+.edit {
+    padding-right: 10px;
+    height: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+}
