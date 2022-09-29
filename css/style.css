@@ -98,10 +98,10 @@ strong {
 .proposito {
     color: rgb(255, 255, 255);
     font-size: 35px;
-
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-image: url('https://img.maspormas.com/2018/06/musel-del-manga.jpg');
     background-size: 1000px;
+    
 
 }
 
@@ -109,6 +109,8 @@ strong {
 .proposito p {
     color: rgb(255, 255, 255);
     font-size: 25px;
+    border-radius: 35px;
+
 }
 
 .manga {
